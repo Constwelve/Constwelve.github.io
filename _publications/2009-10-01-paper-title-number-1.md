@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macro Groups and Fence Regions"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/chen-openparf3-iseda24
+excerpt: 'OpenPARF 3.0 extends FPGA macro placement with robust multi-electrostatics modeling to handle cascaded macro groups and fence regions in modern heterogeneous FPGAs.'
+date: 2024-05-10
+venue: 'International Symposium of Electronics Design Automation (ISEDA)'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
+citation: 'J. Mai, J. Wang, <strong><u>Y. Chen</u></strong>, Z. Guo, X. Jiang, Y. Liang, and Y. Lin, &quot;OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macro Groups and Fence Regions,&quot; in <i>Proc. International Symposium of Electronics Design Automation (ISEDA)</i>, 2024.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+OpenPARF 3.0 introduces a robust multi-electrostatics formulation for FPGA macro placement.
+The approach supports cascaded macro groups and fence regions, enabling practical placement of complex designs on modern FPGA architectures.

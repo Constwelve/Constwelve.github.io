@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "RUPlace: Optimizing Routability via Unified Placement and Routing Formulation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/chen-ruplace-dac25
+excerpt: 'We propose RUPlace, a unified placement and routing formulation that optimizes routability by integrating routing-awareness directly into global placement.'
+date: 2025-06-22
+venue: 'ACM/IEEE Design Automation Conference (DAC)'
+paperurl: 'https://yibolin.com/publications/papers/PLACE_DAC2025_Chen.pdf'
+citation: '<strong><u>Y. Chen</u></strong>, J. Mai, Z. Zhang, and Y. Lin, &quot;RUPlace: Optimizing Routability via Unified Placement and Routing Formulation,&quot; in <i>Proc. ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This work formulates placement and routing in a unified framework to directly optimize routability.
+By coupling an approximate routing model with placement optimization, RUPlace reduces routing congestion
+and improves design quality on modern industrial-scale benchmarks.

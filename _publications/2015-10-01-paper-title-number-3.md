@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Macrorank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/chen-macrorank-aspdac23
+excerpt: 'We introduce Macrorank, a framework that ranks macro placement solutions by exploiting translation equivariancy to better capture global placement quality.'
+date: 2023-01-16
+venue: 'Asia and South Pacific Design Automation Conference (ASPDAC)'
+slidesurl: ''
+paperurl: ''
+citation: '<strong><u>Y. Chen</u></strong>, J. Mai, X. Gao, M. Zhang, and Y. Lin, &quot;Macrorank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy,&quot; in <i>Proc. Asia and South Pacific Design Automation Conference (ASPDAC)</i>, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Macrorank leverages translation equivariant models to evaluate and rank candidate macro placement solutions.
+By learning a placement-quality-aware ranking function, it helps downstream optimization flows select better macro floorplans.

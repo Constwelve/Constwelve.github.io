@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/chen-lrsdp-dac23
+excerpt: 'We propose LRSDP, a low-rank semidefinite programming formulation for efficient triple patterning lithography layout decomposition with high solution quality.'
+date: 2023-06-11
+venue: 'ACM/IEEE Design Automation Conference (DAC)'
+slidesurl: ''
+paperurl: ''
+citation: 'Y. Zhang, <strong><u>Y. Chen</u></strong>, Z. Xie, H. Xu, Z. Wen, Y. Lin, and B. Yu, &quot;LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition,&quot; in <i>Proc. ACM/IEEE Design Automation Conference (DAC)</i>, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+LRSDP exploits low-rank structure in semidefinite programming to accelerate triple patterning layout decomposition.
+The method achieves competitive decomposition quality with significantly reduced runtime compared to conventional SDP-based approaches.

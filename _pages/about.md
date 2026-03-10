@@ -1,13 +1,45 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yifan Chen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi, I am **Yifan Chen** (陈一帆), a second-year Ph.D. student in the School of Integrated Circuits at Peking University, advised by Prof. Yibo Lin.
+
+My research focuses on machine learning and large-scale optimization for Electronic Design Automation (EDA).
+
+You can see a list of my papers on the [Publications](/publications/) page or on my [Google Scholar profile]({{ site.author.googlescholar }}).
+
+## Selected Publications
+
+- **RUPlace: Optimizing Routability via Unified Placement and Routing Formulation**  
+  **Yifan Chen**, Jing Mai, Zuodong Zhang, Yibo Lin*  
+  *ACM/IEEE Design Automation Conference (DAC)*, 2025.
+
+- **Stronger Mixed-Size Placement Backbone Considering Second-Order Information**  
+  **Yifan Chen**, Z. Wen, Y. Liang, Yibo Lin  
+  *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2023.
+
+- **Macrorank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy**  
+  **Yifan Chen**, J. Mai, X. Gao, M. Zhang, Yibo Lin  
+  *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2023.
+
+- **LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition**  
+  Y. Zhang, **Yifan Chen**, Z. Xie, H. Xu, Z. Wen, Y. Lin, B. Yu  
+  *ACM/IEEE Design Automation Conference (DAC)*, 2023.
+
+- **OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macro Groups and Fence Regions**  
+  J. Mai, J. Wang, **Yifan Chen**, Z. Guo, X. Jiang, Y. Liang, Yibo Lin  
+  *International Symposium of Electronics Design Automation (ISEDA)*, 2024.
+
+- **Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models**  
+  J. Zhu, C. Xue, Y. Chen, Z. Wang, C. Zhang, Y. Shen, **Yifan Chen**, Z. Cheng, et al.  
+  *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +85,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

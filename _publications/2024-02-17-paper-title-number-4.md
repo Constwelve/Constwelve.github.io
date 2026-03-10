@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Stronger Mixed-Size Placement Backbone Considering Second-Order Information"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/chen-mixed-size-placement-iccad23
+excerpt: 'We develop a stronger mixed-size placement backbone that incorporates second-order information to improve convergence and solution quality for large-scale IC designs.'
+date: 2023-10-01
+venue: 'IEEE/ACM International Conference on Computer-Aided Design (ICCAD)'
+paperurl: ''
+citation: '<strong><u>Y. Chen</u></strong>, Z. Wen, Y. Liang, and Y. Lin, &quot;Stronger Mixed-Size Placement Backbone Considering Second-Order Information,&quot; in <i>Proc. IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper enhances modern mixed-size placement by leveraging second-order information in the optimization backbone.
+The proposed approach yields better wirelength and density results while maintaining scalability on industrial benchmarks.
